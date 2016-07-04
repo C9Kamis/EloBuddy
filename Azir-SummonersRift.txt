@@ -1,0 +1,1 @@
+2003:StartHpPot,1056:Buy,3802:Buy,1001:Buy,3165:Buy,3006:Buy,3116:Buy,1056:Sell,2003:StopHpPot,3089:Buy,3135:Buy,
